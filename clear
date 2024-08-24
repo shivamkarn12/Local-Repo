@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [1mdiff --git a/clear b/clear[m
 [1mdeleted file mode 100644[m
 [1mindex 56c1d44..0000000[m
@@ -19,14 +20,23 @@
 [31m-\ No newline at end of file[m[m
 [1mdiff --git a/index.html b/index.html[m
 [1mindex 4dcb989..f76f13a 100644[m
+=======
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 0948d62..d01f779 100644[m
+>>>>>>> main
 [1m--- a/index.html[m
 [1m+++ b/index.html[m
 [36m@@ -6,6 +6,6 @@[m
      <title>Document</title>[m
  </head>[m
  <body>[m
+<<<<<<< HEAD
 [31m-    <p>this is my new branch(button)</p>[m
 [32m+[m[32m    <p>this is my new branch(dropdown)</p>[m
+=======
+[31m-    <p>this is my new branch</p>[m
+[32m+[m[41m    [m
+>>>>>>> main
  </body>[m
  </html>[m
 \ No newline at end of file[m
